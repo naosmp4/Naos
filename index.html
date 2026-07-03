@@ -16,7 +16,7 @@
 body{
     height:100vh;
     overflow:hidden;
-    background:linear-gradient(#040814,#07142c,#0b1f3d);
+    background: radial-gradient(circle at top, #0b1f3d, #040814 70%, #02040a);
     font-family:Georgia, serif;
 }
 
@@ -44,31 +44,43 @@ body{
     position:absolute;
     border-radius:50%;
     background:white;
-    animation:scintille infinite ease-in-out;
 }
 
 /* étoiles normales */
 .etoile.normal{
-    width:3px;
-    height:3px;
-    opacity:.35;
-    box-shadow:0 0 5px white;
+    width:2px;
+    height:2px;
+    opacity:.25;
+    box-shadow:0 0 4px white;
 }
 
-/* étoiles importantes (cliquables) */
-.etoile.cliquable{
-    width:6px;
-    height:6px;
+/* étoiles poèmes */
+.etoile.poeme{
+    width:7px;
+    height:7px;
     opacity:1;
-    box-shadow:0 0 12px white;
+    box-shadow:0 0 18px white;
     cursor:pointer;
+    animation:scintille 2.5s infinite ease-in-out;
+    transition:background 0.6s, box-shadow 0.6s, transform 0.3s;
+}
+
+/* ⭐ état "déjà lu" */
+.etoile.poeme.lu{
+    background:#d8a0a0;            /* rouge pastel */
+    box-shadow:0 0 15px #d8a0a0;
+}
+
+/* hover */
+.etoile.poeme:hover{
+    transform:scale(1.4);
 }
 
 /* scintillement */
 @keyframes scintille{
-    0%{opacity:.2; transform:scale(1);}
-    50%{opacity:1; transform:scale(1.6);}
-    100%{opacity:.3; transform:scale(1);}
+    0%{opacity:.6;}
+    50%{opacity:1;}
+    100%{opacity:.6;}
 }
 
 /* ================= POPUP ================= */
@@ -108,34 +120,6 @@ button{
     cursor:pointer;
 }
 
-/* ================= NUAGE ================= */
-
-.nuage{
-    position:absolute;
-    width:200px;
-    height:60px;
-    background:rgba(255,255,255,.05);
-    border-radius:50%;
-    filter:blur(12px);
-    animation:bouge 60s linear infinite;
-}
-
-@keyframes bouge{
-    0%{transform:translateX(-200px);}
-    100%{transform:translateX(120vw);}
-}
-
-/* ================= ETOILE FILANTE ================= */
-
-.filante{
-    position:absolute;
-    width:120px;
-    height:2px;
-    background:linear-gradient(to right, white, transparent);
-    transform:rotate(20deg);
-    opacity:0;
-}
-
 </style>
 
 </head>
@@ -158,9 +142,9 @@ Chaque étoile peut devenir un texte.
 
 <script>
 
-/* ================= ETOILES NORMALES ================= */
+/* ================= ETOILES FOND ================= */
 
-for(let i=0;i<60;i++){
+for(let i=0;i<90;i++){
 
     let star=document.createElement("div");
     star.classList.add("etoile","normal");
@@ -168,22 +152,23 @@ for(let i=0;i<60;i++){
     star.style.top=Math.random()*100+"vh";
     star.style.left=Math.random()*100+"vw";
 
-    star.style.animationDuration=(Math.random()*3+2)+"s";
-
     document.body.appendChild(star);
 }
 
-/* ================= ETOILES CLIQUABLES ================= */
+/* ================= ETOILES POEMES ================= */
 
 for(let i=0;i<4;i++){
 
     let star=document.createElement("div");
-    star.classList.add("etoile","cliquable");
+    star.classList.add("etoile","poeme");
 
     star.style.top=(20+i*18)+"vh";
     star.style.left=(25+i*18)+"vw";
 
-    star.onclick=ouvrir;
+    star.onclick=function(){
+        ouvrir();
+        star.classList.add("lu"); // ⭐ devient rouge après clic
+    };
 
     document.body.appendChild(star);
 }
@@ -197,46 +182,6 @@ function ouvrir(){
 function fermer(){
     document.getElementById("popup").style.display="none";
 }
-
-/* ================= NUAGE ================= */
-
-function creerNuage(){
-
-    let n=document.createElement("div");
-    n.classList.add("nuage");
-
-    n.style.top=Math.random()*60+"vh";
-    n.style.animationDuration=(40+Math.random()*40)+"s";
-
-    document.body.appendChild(n);
-
-}
-
-for(let i=0;i<4;i++) creerNuage();
-
-/* ================= ETOILE FILANTE ================= */
-
-function filante(){
-
-    let f=document.createElement("div");
-    f.classList.add("filante");
-
-    f.style.top=Math.random()*50+"vh";
-    f.style.left="-150px";
-
-    document.body.appendChild(f);
-
-    setTimeout(()=>{
-        f.style.transition="2s linear";
-        f.style.transform="translateX(120vw) rotate(20deg)";
-        f.style.opacity="1";
-    },100);
-
-    setTimeout(()=>f.remove(),2500);
-
-}
-
-setInterval(filante,20000);
 
 </script>
 
