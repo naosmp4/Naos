@@ -87,8 +87,16 @@ for (let i = 0; i < nombreEtoiles; i++) {
         document.getElementById("texte-poeme").textContent = poemes[i].texte;
         document.getElementById("date-poeme").textContent = poemes[i].date;
         
-        document.getElementById("popup").style.display = "block";
-        document.getElementById("voile").style.opacity = "1";
+        const voile = document.getElementById("voile");
+
+document.getElementById("popup").style.display = "block";
+
+voile.style.opacity = "1";
+voile.style.pointerEvents = "auto";
+
+voile.onclick = fermer;
+
+        document.getElementById("popup").scrollTop = 0;
 
         star.classList.add("lu");
 
@@ -120,7 +128,12 @@ localStorage.setItem(
 
 function fermer() {
 
+    const voile = document.getElementById("voile");
+
     document.getElementById("popup").style.display = "none";
-    document.getElementById("voile").style.opacity = "0";
+
+    voile.style.opacity = "0";
+    voile.style.pointerEvents = "none";
+    voile.onclick = null;
 
 }

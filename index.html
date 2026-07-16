@@ -17,7 +17,9 @@
     <div id="voile"></div>
 
     <!-- Fenêtre du poème -->
-    <div class="popup" id="popup">
+   <div class="popup" id="popup" onclick="fermer()">
+
+    <div class="popup-contenu" onclick="event.stopPropagation()">
 
         <h2 id="titre-poeme"></h2>
 
@@ -25,6 +27,10 @@
         <p id="date-poeme"></p>
 
         <button onclick="fermer()">← Retour au ciel</button>
+
+    </div>
+
+</div>
 
     </div>
 
