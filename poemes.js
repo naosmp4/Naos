@@ -417,47 +417,6 @@ C’est une main tendue quand tout fait mal.`,
 }
 ,
 {
-    titre: "L'illusion a tes yeux",
-
-    texte: `Tu parles bien, tu sais tresser les phrases,
-Comme on emballe un vide avec de belles extases.
-Tu sais donner au néant un parfum de destin,
-Et faire croire au soleil au beau milieu du matin.
-
-Tu dis que tu tiens à moi. C'est pratique, au fond.
-Les mots ne coûtent rien quand ils n'ont pas de fond.
-Ils sortent avec aisance, polis, presque élégants ;
-Les actes, eux, arrivent... quand ils ont le temps.
-
-Tu souris, je réponds, c'est devenu banal,
-On rejoue notre scène d'un théâtre un peu bancal.
-On se tourne autour, comme deux astres polis,
-Qui ne se rencontrent jamais qu'au cœur de la nuit.
-
-Tu me regardes vraiment lorsque nos peaux se confondent,
-Comme si mon cœur devait attendre quelques secondes.
-Dans le silence des draps, je te crois presque entier...
-Puis l'aube fait son œuvre : tu redeviens léger.
-
-Le jour, je redeviens presque un détail,
-Une présence discrète perdue dans les étoiles.
-Il y a toujours mieux à faire, toujours un contretemps,
-Et moi qui fais semblant de comprendre, évidemment.
-
-C'est drôle, à force, j'ai appris la leçon :
-Les plus beaux mensonges portent souvent ton prénom.
-Ils brillent juste assez pour qu'on baisse la garde,
-Puis s'effacent sans bruit pendant que l'autre regarde.
-
-Si je pars demain, ne cherche pas de drame.
-Ce n'est pas à mes côtés que tu montrais ton âme.
-Tu me manqueras mais j'y penserais sans rancune.
-Je retournerai la nuit sur les toits, sans te pleurer, sous la lune.`,
-
-    date: "juillet 2026"
-}
-,
-{
     titre: "“Sometimes quiet is violent”",
 
     texte: `Parfois le silence est violent,
