@@ -456,4 +456,136 @@ Je retournerai la nuit sur les toits, sans te pleurer, sous la lune.`,
 
     date: "juillet 2026"
 }
+,
+{
+    titre: "“Sometimes quiet is violent”",
+
+    texte: `Parfois le silence est violent,
+Comme les gares après les départs,
+Quand les néons tremblent encore
+Sur des valises et du brouillard.
+
+Parfois le silence est violent,
+Il laisse les tasses à moitié pleines,
+Les draps froissés du mauvais côté
+Et les fenêtres qui saignent.
+
+Ton absence traîne dans les pièces
+Comme un parfum sur une veste,
+Quelque chose de presque vivant
+Qui refuse encore le reste.
+
+Parfois le silence est violent,
+Il connaît mon nom par cœur,
+Revient s’asseoir au bord du lit
+Avec sa poignée de froideur.
+
+Alors je range nos saisons
+Dans des tiroirs qui grincent bas,
+Mais certains souvenirs respirent
+Même quand on ne les touche pas.
+
+Parfois le silence est violent,
+Parce qu’après toi, dans la pénombre,
+Même la lumière du matin
+A pris l’habitude de l’ombre.`,
+
+    date: "mai 2026"
+}
+,
+{
+    titre: "Crise d’angoisse",
+
+    texte: `L’air ne vient plus comme avant, il accroche ma gorge, se bloque dans ma poitrine, danse au bord de mes lèvres sans jamais les franchir, et je tire, je cherche, mais rien ne passe, rien ne remplit ce vide qui s’élargit en moi.
+
+Chaque inspiration est une lutte, un combat contre un poids invisible qui écrase mes côtes, qui les serre comme des doigts glacés refermés sur ma chair, et plus j’essaie de respirer, plus l’air me trahit, s’évapore, me laisse suffoquer dans ce silence oppressant.
+
+Mon corps tremble, mes poumons brûlent, ma tête tourne sous l’absence d’oxygène, et dans le flou, je ne sais plus si je suis encore là ou si je me perds dans un espace trop étroit, un couloir sans porte où je me cogne encore et encore.
+
+Les larmes montent avec la panique, elles roulent, chaudes, pressées, comme si elles voulaient noyer ce qui me manque, mais elles ne remplissent rien, elles ne font que brouiller ma vision, ajouter au chaos qui gronde sous ma peau.
+
+Je cherche l’air, je l’implore, mais il s’éloigne, insaisissable, et je reste là, prisonnière d’un corps qui refuse de m’écouter, enfermée dans une tempête que rien ne semble pouvoir apaiser.`,
+
+    date: "2013 / 2024"
+}
+,
+{
+    titre: "La Cage",
+
+    texte: `J’ai la rage au ventre.
+Pas un nom, pas un fait,
+Juste un cri qui cogne
+À l’intérieur de mes os fêlés.
+
+Un monstre me loge.
+Il griffe, il crache,
+Il mord le vide
+Et moi avec.
+
+Je me réveille en guerre.
+Contre quoi ? Qui ?
+Aucune cible.
+Mais les poings saignent quand même.
+
+Je serre. Je retiens.
+Je m’enroule autour de lui
+Comme des chaînes vivantes,
+Mais il ronge.
+
+Je ne crie pas.
+Je ravale le feu.
+Je m’étouffe pour l’empêcher
+D’exister dehors.
+
+Je me fais mur.
+Je deviens donjon.
+Je l’enferme avec moi.
+Je me condamne avec lui.
+
+Et personne ne voit
+Que je brûle en silence,
+Que je suis la prison
+Et le prisonnier.`,
+
+    date: "2024"
+}
+,
+{
+    titre: "La Danse",
+
+    texte: `Que fais-je donc ici, le cœur déjà condamné ? Pourquoi suivre ce feu qui refuse de s’éteindre ? Je connais le sentier, je sais où il peut mener… Alors pourquoi mes pas ne veulent-ils s’y soustraire ?
+
+Il porte un autre nom au creux de ses promesses, une bague silencieuse habille sa raison. Je détourne les yeux pour oublier sans cesse
+Qu’un foyer bat ailleurs sous le même prénom.
+
+Ne regarde pas là… Ne pense pas à elle… Fais taire cette voix qui dérange le festin. Après tout, n’est-ce pas le mensonge éternel qui parfume les fleurs avant leur lendemain ?
+
+Pourtant…
+
+Si j’étais à sa place, attendant son retour, compterais-je les heures jusqu’au lever du jour ? Chercherais-je un parfum qui ne serait plus mien ? Craindrais-je qu’un regard ait remplacé le mien ? Pourquoi poser ces mots ?
+
+À quoi bon cette peine ? Je pourrais les noyer sous le poids de ma veine. Je pourrais n’être rien qu’un vertige de plus, une ombre sans visage aussitôt disparue.
+
+Mais quand il me sourit, tout s’effondre en silence. Nos phrases se répondent comme deux évidences. Même lorsque nos mains demeurent immobiles, nos regards parlent bas dans un langage docile.
+
+Est-ce cela l’amour ? Ou bien son imposture ? Une étoile attirée par sa propre brûlure. Pourquoi tant d’harmonie si la chute est écrite ? Pourquoi tant de lumière au bord du précipice ?
+
+Je pourrais m’en aller… Oui, fermer cette porte. Laisser mourir le feu avant qu’il ne m’emporte. Alors pourquoi mon cœur revient-il chaque fois, Comme un loup vers la lune oubliant son effroi ?
+
+Je l’envie, cette femme, et je la plains parfois. Elle possède son nom… J’habite son émoi. Elle a les jours entiers, je dérobe des heures. Qui de nous deux, au fond, connaît le plus de peur ? Et lui… Que cherche-t-il en moi ? Un refuge éphémère ? Un miroir indulgent ? Une saison légère ? Ou bien sommes-nous deux voyageurs insensés qui confondent l’abîme avec la liberté ?
+
+Je me dis : « C’est la fin. » Puis le destin ricane. Nos chemins se rejoignent comme un vieux stratagème. Il suffit d’un regard, d’une phrase banale, Pour que tout recommence avec la même flamme.
+
+Ô pauvre cœur si fier, toi qui te crois lucide, pourquoi bâtis-tu des palais dans le vide ? Pourquoi chanter si fort une histoire sans demain, quand tu sais que l’aurore dispersera tes mains ?
+
+Mais si tout doit mourir, faut-il vivre en exil ? Refuser chaque étoile de peur qu’elle vacille ? Ou vaut-il mieux brûler, ne serait-ce qu’un instant, quitte à n’être demain qu’un souvenir errant ?
+
+Je n’ai pas de réponse. Seulement cette danse
+Où la faute et le désir avancent en cadence.
+Et je tourne, et je ris, et je tombe à genoux…
+En priant que la nuit ignore ce que j’avoue.`,
+
+    date: "juillet 2026"
+}
+
 ]
