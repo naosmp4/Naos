@@ -38,7 +38,7 @@ Quand elle est piétinée, la fuite devient lumière.
 Et partir sans attendre, sans haine et sans détour,
 C’est choisir sa dignité plutôt que leur discours.`,
 
-    date: "juin 2026"
+    date: "avril 2026"
 },
 
 {
@@ -84,7 +84,7 @@ Comme on regarde un feu vaciller dans le vent.
 Avec cette peur sourde au fond de la poitrine :
 Que le bonheur s’abîme… et qu’un jour il se termine.`,
 
-    date: "mai 2026"
+    date: "juin 2026"
 },
 {
     titre: "L'exil désastres",
@@ -124,7 +124,7 @@ Je veux seulement cette paix qui fait dormir
 Les âmes sans éclats, sans regrets ni colères
 La paix immense et nue des astres solitaires.`,
 
-    date: "mai 2026"
+    date: "janvier 2026"
 },
 {
     titre: "Anime : Vous aimez quoi, au juste ?",
@@ -247,49 +247,6 @@ Et je laisse s’éteindre, sans bruit, sans combat,
 Ce qui aurait pu vivre… mais ne vivra pas.`,
 
     date: "mars 2026"
-}
-,
-{
-    titre: "Heal",
-
-    texte: `Tu appelais ça une issue,
-Moi j’y ai vu le décor.
-Un mot glissé, l’air entendu,
-Toujours le même effort.
-
-Il y avait ce « ou » suspendu,
-Comme un pas de trop sur le bord,
-Une phrase à peine prononcée
-Qui décidait de mon sort.
-
-J’ai appris à compter mes gestes,
-À réduire un peu ma voix,
-À croire que céder du terrain
-C’était rester en toi.
-
-Longtemps j’ai pensé que le feu
-Venait de mon propre pas,
-Que trembler faisait partie du jeu,
-Que l’amour parlait comme ça.
-
-Puis j’ai choisi le vide ouvert
-Plutôt qu’un cadre trop étroit,
-La chute franche, la mer déserte,
-Plutôt que l’air sans voix.
-
-Depuis, les nuits cognent encore,
-Mais mes mains savent où aller,
-Je n’attends plus que l’on répare
-Ce qui n’a jamais su s’excuser.
-
-Il est des départs sans fracas,
-Sans témoin, sans retour,
-Ils déplacent le centre de soi,
-Et réécrivent le jour.
-
-“La vie devient plus facile quand on apprend à accepter des excuses qu’on n’a jamais reçues.”`,
-
-    date: "février 2026"
 }
 ,
 {
@@ -506,7 +463,7 @@ Que je brûle en silence,
 Que je suis la prison
 Et le prisonnier.`,
 
-    date: "2024"
+    date: "novembre 2024"
 }
 ,
 {
@@ -546,5 +503,73 @@ En priant que la nuit ignore ce que j’avoue.`,
 
     date: "août 2026"
 }
+,
+{
+    titre: "(plus jamais)",
+
+    texte: `Sous l’eau brûlante, un soir trop long,
+J’ai gratté fort, sans me comprendre.
+Le cœur noyé dans un profond
+Besoin de fuir, besoin d’attendre.
+
+Ma main saignait, mais sans éclat,
+C’était un feu venu de l’âme.
+Personne ne voyait cela,
+Juste un mensonge, juste une flamme.
+
+« Je suis tombé », disais-je alors,
+Masquant la plaie d’un mot tranquille.
+Mais c’était moi, ce corps qui mord
+Sa propre peau, ce mal fragile.
+
+Les jours ont passé, puis les ans,
+La peau s’est tue, le temps l’efface,
+Mais sur ma main, toujours présent,
+Un fil de chair retient la trace.
+
+Ils ne voient rien, ni n’ont jamais
+Lu ce secret gravé en moi.
+Ces traits rosés que je connais,
+Comme un rappel de ce pourquoi.
+
+Je n’ai plus fait ce genre de geste,
+Mais parfois l’ombre me revient.
+La brûlure dort, mais elle reste,
+Là, sur le dos de ma main.`,
+
+    date: "décemebre 2017"
+}
+,
+{
+    titre: "Ton ombre",
+
+    texte: `Tu es venu, étoile brève,
+Un souffle, un cri, puis le silence.
+Le temps a clos son livre en rêve,
+Ne me laissant que ton absence.
+
+Je ne t’ai pas connu, pourtant,
+Ton ombre marche à mes côtés.
+Un frère aux contours flous d’antan,
+Un nom que nul n’a trop osé.
+
+Que serais tu, si l’heure injuste
+Avait laissé battre ton cœur ?
+Un phare, un guide, une main juste,
+Un rire effaçant nos douleurs ?
+
+Je te devine, je t’invente,
+Et dans l’amour qui t’a pleuré,
+Des faux souvenirs me hante
+Comme un murmure abandonné.
+
+Maman t’appelle encore parfois,
+Dans le silence de ses pensées.
+Moi, je te parle, à mi-voix,
+Ombre fraternelle enlacée.`,
+
+    date: "septembre 2024"
+}
+
 
 ]
