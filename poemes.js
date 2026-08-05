@@ -614,7 +614,6 @@ Minuit s’infiltre, sans bruit, sans paix.
 Je compte les heures, je compte les murs,
 Le sommeil s’efface, cruel murmure.
 
-Write on Medium
 Un cachet glisse sous ma langue lasse,
 Promesse de calme, illusion fugace.
 Mais l’angoisse danse sous mes paupières,
