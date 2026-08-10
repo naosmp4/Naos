@@ -87,7 +87,7 @@ Que le bonheur s’abîme… et qu’un jour il se termine.`,
     date: "juin 2026"
 },
 {
-    titre: "L'exil désastres",
+    titre: "L'exil désastre",
 
     texte: `Vieille sœur des silences profonds,
 Toi qui glisses si loin des villes et des fronts,
@@ -178,6 +178,41 @@ Vous perdez les histoires… et moi, j’y perds ma faim.`,
 }
 ,
 {
+    titre: "Crise d’ex-istence",
+
+    texte: `Tu frappes encore, sans prévenir, comme avant,
+Toujours au pire moment.
+J’pensais t’avoir perdue dans un coin du passé,
+Mais t’aimes trop les ruines pour vraiment t’en aller.
+Tu dis rien, tu respires juste un peu trop fort,
+Tu t’installes en moi comme si t’étais chez toi encore.
+T’as gardé les clés d’un endroit que j’ai quitté,
+Mais moi j’ai grandi, toi t’as jamais avancé.
+T’es lourde, t’es collante, t’as ce goût d’hier,
+Tu remues des souvenirs que j’enterre en galère.
+Tu refuses de lâcher, t’aimes trop me voir plier,
+Comme un ex qui s’accroche alors que tout est terminé.
+J’ai plus envie de toi, comprends-le une fois,
+J’veux respirer sans sentir ton poids sur moi.
+J’veux du silence, du calme, du neuf, du vivant,
+Pas ton chaos recyclé en boucle dans le temps.
+T’écoutes jamais rien, t’insistes, tu reviens,
+Toujours avec les mêmes refrains.
+“Et si ça recommence ? Et si tu t’écroulais ?”
+Mais ferme-la, j’ai déjà survécu, tu sais.
+T’es pas de l’amour, t’es juste une mauvaise habitude,
+Un parasite qui confond attache et solitude.
+Moi j’veux avancer, laisser tout ça derrière,
+Toi tu grattes à la porte comme une foutue poussière.
+Alors reste dehors, j’ai plus rien à te donner,
+J’ai réparé mes murs, t’as plus rien à casser.
+Et même si tu cries, même si tu t’acharnes,
+J’oublierai le poids de tes chaînes et de tes larmes.`,
+
+    date: "avril 2026"
+}
+,
+{
     titre: "Rien à en faire",
 
     texte: `On me demande parfois ce que cette histoire a laissé,
@@ -246,7 +281,7 @@ Les liens les plus serrés sont ceux qui se détachent.
 Et je laisse s’éteindre, sans bruit, sans combat,
 Ce qui aurait pu vivre… mais ne vivra pas.`,
 
-    date: "mars 2026"
+    date: "février 2026"
 }
 ,
 {
@@ -422,7 +457,7 @@ Les larmes montent avec la panique, elles roulent, chaudes, pressées, comme si 
 
 Je cherche l’air, je l’implore, mais il s’éloigne, insaisissable, et je reste là, prisonnière d’un corps qui refuse de m’écouter, enfermée dans une tempête que rien ne semble pouvoir apaiser.`,
 
-    date: "2013 / 2024"
+    date: "2013 / 2025"
 }
 ,
 {
@@ -572,41 +607,6 @@ Ombre fraternelle enlacée.`,
 }
 ,
 {
-    titre: "Crise d’ex-istence",
-
-    texte: `Tu frappes encore, sans prévenir, comme avant,
-Toujours au pire moment.
-J’pensais t’avoir perdue dans un coin du passé,
-Mais t’aimes trop les ruines pour vraiment t’en aller.
-Tu dis rien, tu respires juste un peu trop fort,
-Tu t’installes en moi comme si t’étais chez toi encore.
-T’as gardé les clés d’un endroit que j’ai quitté,
-Mais moi j’ai grandi, toi t’as jamais avancé.
-T’es lourde, t’es collante, t’as ce goût d’hier,
-Tu remues des souvenirs que j’enterre en galère.
-Tu refuses de lâcher, t’aimes trop me voir plier,
-Comme un ex qui s’accroche alors que tout est terminé.
-J’ai plus envie de toi, comprends-le une fois,
-J’veux respirer sans sentir ton poids sur moi.
-J’veux du silence, du calme, du neuf, du vivant,
-Pas ton chaos recyclé en boucle dans le temps.
-T’écoutes jamais rien, t’insistes, tu reviens,
-Toujours avec les mêmes refrains.
-“Et si ça recommence ? Et si tu t’écroulais ?”
-Mais ferme-la, j’ai déjà survécu, tu sais.
-T’es pas de l’amour, t’es juste une mauvaise habitude,
-Un parasite qui confond attache et solitude.
-Moi j’veux avancer, laisser tout ça derrière,
-Toi tu grattes à la porte comme une foutue poussière.
-Alors reste dehors, j’ai plus rien à te donner,
-J’ai réparé mes murs, t’as plus rien à casser.
-Et même si tu cries, même si tu t’acharnes,
-J’oublierai le poids de tes chaînes et de tes larmes.`,
-
-    date: "avril 2026"
-}
-,
-{
     titre: "Nuits Blanches et Esprits Gris",
 
     texte: `Les ombres s’étirent sur les murs muets,
@@ -666,7 +666,7 @@ Mais ce soir, franchement, je n’ai pas envie d’y croire :
 Je voudrais juste ressentir moins,
 et dormir sans tout ressentir demain soir.`,
 
-    date: "août 2026"
+    date: "juin 2026"
 }
 
 ]
