@@ -631,8 +631,42 @@ Un peu plus creux… un peu plus flou.`,
 
     date: "février 2025"
 }
+,
+{
+    titre: "À fleur de peau",
 
+    texte: `On me dit que c’est beau, de ressentir autant,
+Que le cœur trop ouvert est un cœur vivant.
+Alors j’essaie d’y croire, quand je sombre pour rien,
+De me dire que souffrir ne fait pas de moi quelqu’un de moins bien.
 
+Mais il suffit d’un mot, d’un silence, d’un refus,
+Et voilà que mon monde s’effondre à ma vue.
+Je sais, c’est dérisoire, et je le sais parfaitement,
+C’est bien ça le pire : je le ressens pourtant tellement.
 
+Alors je cache mes larmes, je ravale mes colères,
+Je souris quand ça brûle, parce que c’est plus discret, plus fier.
+Il paraît qu’à mon âge, il faudrait savoir encaisser,
+Ne pas faire tout un drame de ce qui devrait passer.
+
+J’aimerais être solide, ou simplement moins atteint,
+Avoir le cœur tranquille et les nerfs un peu moins fins.
+Ne pas donner de poids à chaque petite blessure,
+Ne pas transformer trois mots en immense déchirure.
+
+Parce qu’être sensible, parfois, ça ressemble à une honte :
+On voudrait être compris, mais surtout qu’on ne le raconte.
+Alors je fais semblant que tout va très bien,
+Et je me demande en silence pourquoi je ressens pour si peu de rien.
+
+Peut-être qu’un cœur tendre n’est pas un cœur fragile,
+Peut-être que souffrir fort ne rend pas moins habile.
+Mais ce soir, franchement, je n’ai pas envie d’y croire :
+Je voudrais juste ressentir moins,
+et dormir sans tout ressentir demain soir.`,
+
+    date: "août 2026"
+}
 
 ]
