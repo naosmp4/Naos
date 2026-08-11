@@ -668,5 +668,78 @@ et dormir sans tout ressentir demain soir.`,
 
     date: "juin 2026"
 }
+,
+{
+    titre: "Est-ce que tu mens depuis longtemps ?",
+
+    texte: `Qu’est-ce que tu caches ?
+Pourquoi tu te tais ?
+Pourquoi ton regard me dit
+Que je ne devrais pas rester ?
+
+T’as quoi sous la peau ?
+Combien de morts dans tes mots ?
+Combien de secrets enterrés
+Que personne n’a déterrés ?
+
+Je vois ton ombre
+Même quand tu souris
+Elle déborde de toi
+Elle me suit dans la nuit
+
+Alors c’est quoi ?
+C’est qui derrière tes yeux ?
+Pourquoi j’ai envie de savoir
+Tout en voulant partir loin ?
+
+N'avance pas.
+
+Pourquoi tu viens vers moi ?
+Tu vois bien que je recule
+Tu vois bien que j’ai peur
+Alors pourquoi tu continues ?
+
+Tu m’attires
+Tu m’effraies
+Je veux voir
+Puis je veux m’en aller
+
+Dis-moi ce que tu caches
+Mais ne me dis pas tout
+J’ai peur de trouver quelque chose
+Qui ressemble un peu trop à toi
+
+Est-ce que tu fais semblant ?
+Est-ce que tu mens depuis longtemps ?
+Est-ce que quelqu’un connaît
+La chose qui vit dans tes silences ?
+
+Ne me souris pas comme ça.
+
+J’ai l’impression
+Que derrière ton calme
+Il y a des ruines
+Et derrière tes ruines
+Quelque chose qui respire encore
+
+Alors dis-moi.
+
+Pourquoi je veux m’approcher
+Quand tout en moi hurle de fuir ?
+Pourquoi ton ombre m’appelle
+Quand je sais qu’elle pourrait me retenir ?
+
+Avance encore
+Et je recule.
+
+Avance encore
+Et je hurle.
+
+Avance encore
+Et peut-être que je reste.`,
+
+    date: "août 2026"
+}
+
 
 ]
