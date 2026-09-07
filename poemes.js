@@ -740,6 +740,91 @@ Et peut-être que je reste.`,
 
     date: "août 2026"
 }
+,
+{
+    titre: "Ce que demain ferait de cette histoire",
+
+    texte: `Ce soir là, presque au hasard,
+La nuit s’est posée quelque part,
+Et sans promesse, sans détour,
+J’ai trouvé dans tes mots un peu d’amour
+Pas celui qui veut retenir,
+Mais celui qui sait simplement sourire.
+
+Je te regardais jouer dans la lumière,
+Traverser des mondes et leurs mystères,
+Et dans les combats, même les plus longs,
+Tu pensais à moi entre deux affronts.
+À mes silences, à mon attente,
+À la caméra parfois trop mouvante.
+
+Tu ralentissais sans même y penser,
+Comme si mon confort devait compter.
+Et dans ces gestes presque anodins,
+Il y avait quelque chose de serein :
+Une attention légère et sincère,
+Une douceur qui n’avait rien à faire.
+
+Alors la soirée est devenue un cocon,
+Un petit refuge hors du temps, hors du monde,
+Où l’on pouvait parler sans avoir à savoir
+Ce que demain ferait de cette histoire.
+Il n’y avait ni rôle, ni enjeu, ni détour,
+Seulement des sourires qui faisaient leur tour.
+
+Puis le jeu s’est éteint doucement,
+Mais pas la nuit, ni nos bavardages d’enfants.
+On a parlé de livres et de littérature,
+De ces mots qui parfois nous rassurent,
+Puis de ton chat, puis de mon lapin,
+Avec des étoiles au fond des mains.
+
+On en parlait comme on parle autrefois,
+De nos trésors les plus grands, les plus beaux,
+Avec cette innocence que l’on oublie parfois,
+Quand le monde nous apprend à tout mettre en mots.
+Et c’était doux, tellement simplement,
+De ne rien devoir à cet instant.
+
+J’ai aimé que rien ne soit cherché,
+Qu’aucune porte ne soit forcée,
+Que l’on puisse rester là, tout simplement,
+À rire de presque rien, tranquillement.
+Sans chercher à savoir qui tu serais demain,
+Sans vouloir déjà connaître ton chemin.
+
+Juste deux âmes assises quelque part,
+À partager quelques éclats dans le noir,
+Quelques pages, quelques animaux,
+Quelques sourires et quelques mots.
+
+Et peut-être est-ce cela qui m’a tant touchée :
+Ne rien attendre, ne rien réclamer.
+Ne pas chercher à retenir la nuit,
+Mais simplement être heureux d’être ici.
+
+Il y avait du respect dans chaque silence,
+Une pudeur douce, une belle innocence,
+Et cette sensation, presque irréelle,
+D’avoir trouvé une parenthèse belle.
+
+Alors quand la nuit s’est enfin refermée,
+Je suis restée avec cette pensée :
+Certaines rencontres n’ont pas besoin de lendemain,
+Elles sont belles parce qu’elles ne demandent rien.
+
+Et si je devais garder quelque chose de cette nuit,
+Ce serait cette douceur qui n’a pas fait de bruit :
+Un jeu, quelques mots, un cocon improvisé,
+Et la sensation rare d’avoir simplement souri.
+
+Ce fut une très belle nuit,
+Une de celles qu’on n’avait pas prévues,
+Mais qu’on garde longtemps, en silence,
+Comme une petite lumière suspendue.`,
+
+    date: "septembre 2026"
+}
 
 
 ]
