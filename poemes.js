@@ -502,44 +502,6 @@ Et le prisonnier.`,
 }
 ,
 {
-    titre: "La Danse",
-
-    texte: `Que fais-je donc ici, le cœur déjà condamné ? Pourquoi suivre ce feu qui refuse de s’éteindre ? Je connais le sentier, je sais où il peut mener… Alors pourquoi mes pas ne veulent-ils s’y soustraire ?
-
-Il porte un autre nom au creux de ses promesses, une bague silencieuse habille sa raison. Je détourne les yeux pour oublier sans cesse
-Qu’un foyer bat ailleurs sous le même prénom.
-
-Ne regarde pas là… Ne pense pas à elle… Fais taire cette voix qui dérange le festin. Après tout, n’est-ce pas le mensonge éternel qui parfume les fleurs avant leur lendemain ?
-
-Pourtant…
-
-Si j’étais à sa place, attendant son retour, compterais-je les heures jusqu’au lever du jour ? Chercherais-je un parfum qui ne serait plus mien ? Craindrais-je qu’un regard ait remplacé le mien ? Pourquoi poser ces mots ?
-
-À quoi bon cette peine ? Je pourrais les noyer sous le poids de ma veine. Je pourrais n’être rien qu’un vertige de plus, une ombre sans visage aussitôt disparue.
-
-Mais quand il me sourit, tout s’effondre en silence. Nos phrases se répondent comme deux évidences. Même lorsque nos mains demeurent immobiles, nos regards parlent bas dans un langage docile.
-
-Est-ce cela l’amour ? Ou bien son imposture ? Une étoile attirée par sa propre brûlure. Pourquoi tant d’harmonie si la chute est écrite ? Pourquoi tant de lumière au bord du précipice ?
-
-Je pourrais m’en aller… Oui, fermer cette porte. Laisser mourir le feu avant qu’il ne m’emporte. Alors pourquoi mon cœur revient-il chaque fois, Comme un loup vers la lune oubliant son effroi ?
-
-Je l’envie, cette femme, et je la plains parfois. Elle possède son nom… J’habite son émoi. Elle a les jours entiers, je dérobe des heures. Qui de nous deux, au fond, connaît le plus de peur ? Et lui… Que cherche-t-il en moi ? Un refuge éphémère ? Un miroir indulgent ? Une saison légère ? Ou bien sommes-nous deux voyageurs insensés qui confondent l’abîme avec la liberté ?
-
-Je me dis : « C’est la fin. » Puis le destin ricane. Nos chemins se rejoignent comme un vieux stratagème. Il suffit d’un regard, d’une phrase banale, Pour que tout recommence avec la même flamme.
-
-Ô pauvre cœur si fier, toi qui te crois lucide, pourquoi bâtis-tu des palais dans le vide ? Pourquoi chanter si fort une histoire sans demain, quand tu sais que l’aurore dispersera tes mains ?
-
-Mais si tout doit mourir, faut-il vivre en exil ? Refuser chaque étoile de peur qu’elle vacille ? Ou vaut-il mieux brûler, ne serait-ce qu’un instant, quitte à n’être demain qu’un souvenir errant ?
-
-Je n’ai pas de réponse. Seulement cette danse
-Où la faute et le désir avancent en cadence.
-Et je tourne, et je ris, et je tombe à genoux…
-En priant que la nuit ignore ce que j’avoue.`,
-
-    date: "août 2026"
-}
-,
-{
     titre: "(plus jamais)",
 
     texte: `Sous l’eau brûlante, un soir trop long,
