@@ -457,7 +457,7 @@ Les larmes montent avec la panique, elles roulent, chaudes, pressées, comme si 
 
 Je cherche l’air, je l’implore, mais il s’éloigne, insaisissable, et je reste là, prisonnière d’un corps qui refuse de m’écouter, enfermée dans une tempête que rien ne semble pouvoir apaiser.`,
 
-    date: "2013 / 2025"
+    date: "2013 / 2026"
 }
 ,
 {
@@ -566,32 +566,6 @@ Moi, je te parle, à mi-voix,
 Ombre fraternelle enlacée.`,
 
     date: "septembre 2024"
-}
-,
-{
-    titre: "Nuits Blanches et Esprits Gris",
-
-    texte: `Les ombres s’étirent sur les murs muets,
-Minuit s’infiltre, sans bruit, sans paix.
-Je compte les heures, je compte les murs,
-Le sommeil s’efface, cruel murmure.
-
-Un cachet glisse sous ma langue lasse,
-Promesse de calme, illusion fugace.
-Mais l’angoisse danse sous mes paupières,
-Tournant, ricanant, légère et fière.
-
-Les draps s’entortillent, froids et sévères,
-Mon cœur s’emballe, rythmique de fer.
-Je ferme les yeux, je me fais mensonge,
-Mais Morphée refuse qu’enfin je plonge.
-
-L’aube s’effrite aux vitres pâlies,
-Un jour se lève sur ma nuit détruite.
-Et je souris, fantôme debout,
-Un peu plus creux… un peu plus flou.`,
-
-    date: "février 2025"
 }
 ,
 {
