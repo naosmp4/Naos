@@ -761,6 +761,69 @@ Comme une petite lumière suspendue.`,
 
     date: "septembre 2026"
 }
+,
+{
+    titre: "Puisque tu m’aimes, je t’aime",
 
+    texte: `Je ne ressens plus grand-chose, et cela me va très bien,
+Les passions se sont tues sans me laisser de chagrin.
+Alors je dis oui aux autres, puisque cela ne coûte rien,
+Je prête quelques mots doux, sans en croire aucun lien.
 
+Puisque tu m’aimes, je t’aime, c’est une formule aisée,
+Quelques syllabes tendres pour une âme esseulée.
+Si tu manques d’affection, je saurai te rassurer,
+Je peux même dire je t’aime sans jamais le penser.
+
+Je mens avec douceur, sans honte et sans remords,
+Je façonne mes réponses selon ce que tu veux encore.
+Je joue la fille naïve, un peu fragile, un peu blessée,
+Pour expliquer mes silences, mes absences, ma froideur voilée.
+
+Je sais quand m’approcher, je sais quand m’éloigner,
+Je connais les bons regards, les mots à employer.
+Et si mon cœur reste vide au milieu de tes aveux,
+Qu’importe : tu es heureux, et cela me suffit presque mieux.
+
+Puisque tu m’aimes, je t’aime, pourquoi chercher plus loin ?
+Tu donnes de la tendresse, je te rends ce dont tu as besoin.
+Je ne promets pas mon cœur, je promets seulement le rôle,
+Et tu crois à mes je t’aime pendant que le silence me frôle.
+
+Peut-être suis-je devenue trop habile à faire semblant,
+À jouer les innocentes tout en comprenant pourtant.
+Je n’ai plus peur de mentir, ni de décevoir demain,
+Quand on ne ressent plus rien, on ne perd presque rien.
+
+Alors aime-moi si tu veux, je saurai te répondre,
+Je saurai feindre l’émoi quand tes certitudes s’effondrent.
+Puisque tu m’aimes, je t’aime, et puisque cela te convient,
+Nous pouvons nous aimer ainsi… sans que je ne ressente rien.`,
+
+    date: "septembre 2026"
+}
+,
+{
+    titre: "Le goût du faux",
+
+    texte: `Ce n’est pas la porte qui s’est lentement fermée,
+Ni même le froid venu remplacer l’été.
+Les choses ont leur fin, les saisons et leur raison,
+Je n’aurais pas maudit l’inévitable abandon.
+
+C’est le goût du mensonge, doucement distillé,
+Sous des mots sans chaleur que tu venais déposer.
+Cette vérité cachée derrière des « j'ai rien fait »,
+Comme si je ne savais pas que tu m'avais remplacée.
+
+J’aurais préféré le vide à tes faux-semblants,
+Quelques honnêtes mots à ces sourires absents.
+La fin ne m’a rien fait que le temps n’aurait soigné,
+C’est d’avoir dû la comprendre qui m’a profondément blessée.
+
+Et je regrette moins la fin que d’avoir cru,
+Qu’entre nous, au moins, le mensonge n’existait plus.`,
+
+    date: "septembre 2026"
+}
 ]
