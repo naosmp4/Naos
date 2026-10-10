@@ -810,4 +810,102 @@ Il apprend à s’ouvrir mais refuse de se briser.`,
 
     date: "octobre 2026"
 }
+,
+{
+    titre: "Confrontations",
+
+    texte: `J’en veux au monde entier de ne jamais me comprendre,
+J’en veux à cette hypocrisie qui me donne envie de tout rendre,
+J’en veux à ceux qui suivent la mode avant de la piétiner,
+J’en veux à ceux qui harcèlent ce qu’ils n’ont jamais accepter.
+
+J’en veux à vos grands discours, à vos principes en carton,
+J’en veux à vos belles valeurs qui s’arrêtent aux apparences et aux noms,
+J’en veux à cette humanité qui se croit supérieure,
+Mais qui cache sa cruauté derrière de faux airs de grandeur.
+
+J’en veux à ma mère, au temps qui finira par me l’enlever,
+J’en veux à l’univers de ne pas pouvoir l’arrêter,
+J’en veux à mon père, à l’alcool, à ses gestes, à ses cris,
+J’en veux aux souvenirs qui restent quand les bourreaux ont fini.
+
+J’en veux à l’école et ses rêves sous conditions,
+À ces seize en maths qui condamnaient ma vocation,
+J’en veux à mon cerveau de transformer chaque choix en procès,
+J’en veux à cette peur de vivre qui m’empêche d'avancer.
+
+J’en veux à ma voix, si belle quand je chante dans le noir,
+J’en veux à ce silence qui la remplace dès qu'on peut m'entendre quelque part,
+J’en veux à ma timidité, à cette gorge qui se ferme,
+J’en veux à tous ces mots que je ravale et qui m’empoisonnent à terme.
+
+J’en veux à mes amis d’être absents quand j’ai besoin d’eux,
+J’en veux à leur présence quand je voudrais qu’on me laisse un peu,
+J’en veux à cet ami qui m’a laissée deviner la fin,
+Qui m’a privée d’un adieu comme si je ne valais rien.
+
+J’en veux à certains de mes ex de m’avoir volé le choix,
+J’en veux à leurs silences, à leurs décisions prises sans moi,
+J'en veux à cette personne, dont je tairai jusqu’au nom,
+Qui m’a brisée trop tôt sans jamais demander pardon.
+
+J’en veux à mes deux sœurs de m’avoir placée entre elles,
+J’en veux à leurs choix qui rendent mes deux amours conflictuels,
+J’en veux à mon frère de se détruire et d’inquiéter maman,
+J’en veux à la vie de lui faire subir ça, encore et maintenant.
+
+J’en veux à Guillaume d’être parti sans que je le voie,
+J’en veux à la mort de prendre sans expliquer pourquoi,
+J’en veux à mes parents d’avoir arraché Paris à mon enfance,
+J’en veux à ce déménagement qui a tout changé sans me demander mon avis, sans défense.
+
+J’en veux à la droite et à ses discours déguisés en solutions,
+J’en veux à la haine des étrangers qu’on vend comme une conviction,
+J’en veux aux droits des femmes qu’on voudrait voir reculer,
+J’en veux à ceux qui applaudissent sans même chercher à penser.
+
+J’en veux aux œuvres d’art qui déshabillent les femmes,
+Quand les hommes sauvent le monde et récoltent les flammes,
+J’en veux à cette vieille habitude de confondre beauté et possession,
+J’en veux à tous ces regards qui réduisent une personne à sa dimension.
+
+J’en veux à la nourriture de m’avoir appris à manger mes émotions,
+J’en veux à mon estomac d’être devenu le tombeau de mes frustrations,
+J’en veux à Albert Camus de m’avoir appris à taire ce que je ressens,
+J’en veux à cette idée qu’il faut souffrir en silence pour être grand.
+
+J’en veux à mon moi d’avant, à ses douleurs muettes,
+À cette main brûlée volontairement, un soir sous la douche, en cachette,
+À celle que j’étais, qui n’avait trouvé d’autre langage
+Que de retourner contre elle-même la violence de ses orages.
+
+J’en veux à la chaleur qui me rend faible et irritable,
+J’en veux à mon corps de rendre chaque effort insupportable,
+J’en veux à chaque petite chose qui finit par me faire exploser,
+J’en veux à ces journées où je n’ai même plus la force de m’énerver.
+
+J’en veux à tout, bordel, à tout ce qui m’a construite,
+À tout ce qui m’a détruite, à tout ce qui m’habite,
+J’en veux aux gens, aux souvenirs, aux regrets, aux lendemains,
+J’en veux même à cette colère qui me serre encore les poings.
+
+Et quand viendra mon heure, quand le dernier jour arrivera,
+J’en veux d’avance à ce monde qui continuera sans moi.
+Mais je ne pleurerai pas la rage, ni les rancunes accumulées,
+Je ne regretterai pas le poids que j’aurai enfin déposé.
+
+J’en veux à tout aujourd’hui, mais demain, je n’en saurai plus rien.
+Je laisserai cette colère ici, avec le reste de mes chagrins.
+Qu’elle crève avec les murs où j’ai enfermé mes douleurs,
+Qu’elle se noie dans le silence, loin de mon cœur.
+
+Parce que le jour où je partirai, je ne lui devrai plus rien.
+Ni un dernier regard, ni un regret, ni même un refrain.
+Cette colère m’aura assez pris, assez volé, assez suivie.
+Et non, elle ne me manquera pas. Pas une seconde de ma vie.`,
+
+    date: "octobre 2026"
+}
+
+
 ]
