@@ -203,7 +203,7 @@ Mais ferme-la, j’ai déjà survécu, tu sais.
 T’es pas de l’amour, t’es juste une mauvaise habitude,
 Un parasite qui confond attache et solitude.
 Moi j’veux avancer, laisser tout ça derrière,
-Toi tu grattes à la porte comme une foutue poussière.
+Toi tu grattes à la porte comme de la poussière.
 Alors reste dehors, j’ai plus rien à te donner,
 J’ai réparé mes murs, t’as plus rien à casser.
 Et même si tu cries, même si tu t’acharnes,
@@ -671,14 +671,14 @@ Et tu crois à mes je t’aime pendant que le silence me frôle.
 Peut-être suis-je devenue trop habile à faire semblant,
 À jouer les innocentes tout en comprenant pourtant.
 Je n’ai plus peur de mentir, ni de décevoir demain,
-Quand on ne ressent plus rien, on ne perd presque rien.
+Quand on ne ressent plus, on ne perd presque rien.
 
 Alors aime-moi si tu veux, je saurai te répondre,
 Je saurai feindre l’émoi quand tes certitudes s’effondrent.
 Puisque tu m’aimes, je t’aime, et puisque cela te convient,
 Nous pouvons nous aimer ainsi… sans que je ne ressente rien.`,
 
-    date: "septembre 2026"
+    date: "août 2026"
 }
 ,
 {
@@ -703,112 +703,6 @@ Et je regrette moins la fin que d’avoir cru,
 Qu’entre nous, au moins, le mensonge n’existait plus.`,
 
     date: "septembre 2026"
-}
-,
-{
-    titre: "Entre les ombres et toi",
-
-    texte: `Je t’aime à contre-cœur, ou peut-être à contretemps,
-Avec un pied dans l’ombre et l’autre dans le vent.
-Tu m’offres des douceurs que je n’attendais plus,
-Et je cherche le piège au creux de l’inconnu.
-
-Tu sais trouver les mots que je croyais perdus,
-Poser sur mes silences un regard inattendu.
-Tu fais fleurir en moi des choses que j’enterre,
-Et je t’en veux parfois de me rendre moins fière.
-
-Car j’ai vécu longtemps à m’oublier moi-même,
-À confondre les barreaux avec les bras qu’on aime.
-J’ai mis tant de saisons à retrouver mon port
-Que je crains qu’un amour ne m’en arrache encore.
-
-Alors quand tu t’approches, je ne sais plus très bien
-Si je dois tendre les bras ou protéger les miens.
-Je voudrais être tendre, me laisser emporter,
-Mais quelque chose en moi refuse de céder.
-
-Tu veux davantage, et davantage encore,
-Comme si chaque jour devait agrandir le décor.
-Mais je ne suis pas prête à défaire mes remparts
-Au seul motif que tu m’attends de l’autre part.
-
-Et ça m’effraie, oui, cette urgence dans tes yeux,
-Cette façon de vouloir nous rendre plus nombreux
-Dans un espace à peine assez grand pour ma paix,
-Quand j’apprends tout juste à ne plus me sacrifier.
-
-Ne me demande pas de fleurir sur commande,
-Ni d’offrir sans trembler ce que mon cœur demande.
-Je ne suis pas un quai où l’on accoste à loisir,
-Ni la promesse d’un port qui n’aurait plus à fuir.
-
-Pourtant, quand tu m’écoutes et que tu sais attendre,
-Je sens quelque chose en moi qui consent à se rendre.
-Quand tes gestes sont doux, quand tes mots sont sincères,
-Je me surprends à croire qu’il existe autre chose à faire
-
-Que veiller sur mes flancs, compter les jours sans peine,
-Et guetter dans les mots la prochaine rengaine.
-Je me surprends à rire, à vouloir te voir,
-À laisser un peu d’or s’infiltrer dans le noir.
-
-Puis la peur revient, fidèle et mal élevée,
-Elle renverse la table et piétine mes pensées.
-Je deviens froide et sèche, et parfois même injuste,
-Je te repousse au loin quand ta présence m’est juste.
-
-Et je m’en veux ensuite, sans savoir démêler
-Ce qui relève de toi ou de ce que j’ai gardé.
-Car tu n’es pas celui qui m’a laissée en ruines,
-Mais j’ai gardé ses ombres au fond de mes routines.
-
-Je voudrais que tu saches, sans devoir te défendre,
-Que ma colère n’est pas toujours un refus de te prendre.
-Parfois, c’est juste un cri, maladroit et brutal,
-D’une porte qui s’entrouvre en redoutant le mal.
-
-Je ne sais pas encore quelle place te donner,
-Ni comment t’accueillir sans me désordonner.
-Je t’aime certains jours avec évidence,
-Et d’autres, je te crains avec la même intensité.
-
-C’est épuisant, tu sais, d’avoir le cœur en guerre,
-De vouloir la lune et de craindre sa lumière.
-D’avoir trouvé quelqu’un qui fait du bien, pour vrai,
-Et de chercher malgré soi ce qui pourrait l’abîmer.
-
-Je ne veux pas te perdre mais je ne veux plus me perdre,
-Ni devenir la cendre d’un amour qui m’entrave.
-Je veux pouvoir t’aimer sans me devoir à toi,
-Sans que chaque pas vers toi m’éloigne un peu de moi.
-
-Alors laisse moi le temps, même s’il te semble long,
-Même si mes sentiments changent parfois de saison.
-Ne prends pas mes lenteurs pour une absence d’envie,
-Je réapprends seulement à ne pas fuir ma vie.
-
-Et si je viens vers toi, ne me tire pas plus près,
-Ne fais pas de demain une dette à régler.
-Reste là, simplement, sans vouloir tout comprendre,
-Laisse moi te choisir sans avoir à me rendre.
-
-Car je pourrais t’aimer d’une tendresse immense,
-Mais pas si cet amour devient une nouvelle urgence.
-Je veux bien prendre la mer, risquer quelques naufrages,
-Mais je veux garder la barre au milieu des orages.
-
-Je t’aime et ça m’effraie. Tu m’apaises et tu m’irrites.
-Tu me donnes envie de rester, puis de prendre la fuite.
-Je ne sais pas encore comment tenir ta main
-Sans craindre qu’en la prenant, je me perde en chemin.
-
-Alors ne me demande pas d’être déjà guérie.
-Je ne te dois ni miracle, ni serment, ni raccourci.
-Si tu veux de mon cœur, prends le sans le presser :
-Il apprend à s’ouvrir mais refuse de se briser.`,
-
-    date: "octobre 2026"
 }
 ,
 {
