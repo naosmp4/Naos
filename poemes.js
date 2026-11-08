@@ -791,7 +791,7 @@ Je ne regretterai pas le poids que j’aurai enfin déposé.
 J’en veux à tout aujourd’hui, mais demain, je n’en saurai plus rien.
 Je laisserai cette colère ici, avec le reste de mes chagrins.
 Qu’elle crève avec les murs où j’ai enfermé mes douleurs,
-Qu’elle se noie dans le silence, loin de mon cœur.
+Qu’elle se noie dans le silence et loin de mon cœur.
 
 Parce que le jour où je partirai, je ne lui devrai plus rien.
 Ni un dernier regard, ni un regret, ni même un refrain.
@@ -799,6 +799,27 @@ Cette colère m’aura assez pris, assez volé, assez suivie.
 Et non, elle ne me manquera pas. Pas une seconde de ma vie.`,
 
     date: "octobre 2026"
+}
+,
+{
+    titre: "À quelques pas de nous",
+
+    texte: `Nos regards se sont croisés, froids et désarmés,
+Deux anciens amoureux qui n'ont plus rien à se donner.
+Pourtant, je me souviens de tes lèvres sur les miennes,
+De ces nuits sans sommeil où nos âmes étaient tiennes.
+
+On a connu la fièvre, les secrets, les nuits volées,
+Les promesses murmurées jusqu'au soleil levé.
+Et tout ça, aujourd'hui, ne vaut même plus un mot.
+Quelle ironie de voir finir notre histoire de si haut.
+
+Alors tu as continué et j'ai poursuivi mon chemin,
+Deux regards pleins d'histoire, deux étrangers soudain.
+C'est donc ça, notre fin ? Quel gâchis
+Avoir été tout l'un pour l'autre et plus rien aujourd'hui.`,
+
+    date: "novembre 2026"
 }
 
 
